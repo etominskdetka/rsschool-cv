@@ -4,6 +4,7 @@
 
 - E-mail: 9798dima@gmail.com
 - Discord: @etominskdetka
+- Phone: +37529-159-89-37
 
 ## About
 
@@ -20,7 +21,7 @@
   }
   someFunction();
   ```
-- Novice frontend-developer
+- Frontend-developer
 
 - Technical education: **_Belarusian National Technical University_**,
   Minsk, Belarus
