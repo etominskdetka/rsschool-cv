@@ -11,3 +11,12 @@
   I want to work for the website [sports.ru](https://www.sports.ru/) or gamedev.
 
   - JavaScript, GIT, VS Code, HTML, CSS
+
+  - example code from `js`:
+
+  ```javascript
+  function someFunction() {
+    return 2 + 1;
+  }
+  someFunction();
+  ```
