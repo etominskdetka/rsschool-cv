@@ -20,3 +20,9 @@
   }
   someFunction();
   ```
+- Novice frontend-developer
+
+- Technical education: **_Belarusian National Technical University_**,
+  Minsk, Belarus
+
+- English: Pre-intermediate (A2).
