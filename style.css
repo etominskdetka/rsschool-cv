@@ -21,3 +21,21 @@ body {
   height: auto;
   border-radius: 10%;
 }
+
+.information {
+    padding-left: 20px;
+    width: 500px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom {
+    width: 595px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
